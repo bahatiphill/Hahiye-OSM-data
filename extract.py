@@ -6,7 +6,7 @@ import osmium
 import sys
 import csv
 
-class NamesHandler(osmium.SimpleHandler):
+class NodesHandler(osmium.SimpleHandler):
 
     
 
@@ -15,7 +15,7 @@ class NamesHandler(osmium.SimpleHandler):
 
         if tags.get('amenity') in amenities:
             if 'name' in tags:
-                with open('KigaliPubs.csv', mode='a') as file:
+                with open('result_data/KigaliPubs.csv', mode='w') as file:
                     file_writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
                     
                     print('## Writing: ', [tags['name'], tags['amenity'], lat, lon] )
@@ -28,10 +28,12 @@ class NamesHandler(osmium.SimpleHandler):
         lat = n.location.lat
         lon = n.location.lon
         self.write_to_csv(n.tags, lat, lon)
-
+'''
 if __name__ == '__main__':
     if len(sys.argv) != 2:
         print("Usage: python extract.py <osmfile>")
         sys.exit(-1)
 
-    NamesHandler().apply_file(sys.argv[1])
+    NodesHandler().apply_file(sys.argv[1])
+
+'''

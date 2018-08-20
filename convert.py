@@ -24,10 +24,10 @@ def turn_to_dict(file):
 
 # dictionary data to resultjson.json file in json format
 def to_json():
-    dictionary = turn_to_dict('KigaliPubs.csv')
+    dictionary = turn_to_dict('result_data/KigaliPubs.csv')
     json_data = json.dumps(dictionary, indent=4)
 
-    with open('resultjson.json', mode='w') as file:
+    with open('result_data/resultjson.json', mode='w') as file:
         file.write(json_data)
 
     return True
