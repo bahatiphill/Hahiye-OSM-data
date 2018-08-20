@@ -31,7 +31,7 @@ class NamesHandler(osmium.SimpleHandler):
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:
-        print("Usage: python pub_names.py <osmfile>")
+        print("Usage: python extract.py <osmfile>")
         sys.exit(-1)
 
     NamesHandler().apply_file(sys.argv[1])
