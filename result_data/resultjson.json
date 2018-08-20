@@ -4,4 +4,505 @@
         "amenity": "restaurant", 
         "lon": "30.0595301"
     }
+}{
+    "Stella Matutina": {
+        "lat": "-1.9688684", 
+        "amenity": "restaurant", 
+        "lon": "30.1258542"
+    }, 
+    "Bourbon Coffee": {
+        "lat": "-1.9404434", 
+        "amenity": "cafe", 
+        "lon": "30.1033451"
+    }, 
+    "Savana restaurant": {
+        "lat": "-1.9471407", 
+        "amenity": "restaurant", 
+        "lon": "30.0928711"
+    }, 
+    "Cool Garden": {
+        "lat": "-1.9458375", 
+        "amenity": "restaurant", 
+        "lon": "30.0688175"
+    }, 
+    "Fuchsia": {
+        "lat": "-1.9580289", 
+        "amenity": "bar", 
+        "lon": "30.1147283"
+    }, 
+    "German Butchery": {
+        "lat": "-1.9520922", 
+        "amenity": "bar", 
+        "lon": "30.0578131"
+    }, 
+    "Canteen good and cheap": {
+        "lat": "-1.9345273", 
+        "amenity": "restaurant", 
+        "lon": "30.0782476"
+    }, 
+    "Makoumba Bar": {
+        "lat": "-1.9693203", 
+        "amenity": "bar", 
+        "lon": "30.0573105"
+    }, 
+    "Royal Garden Restaurant": {
+        "lat": "-1.9489487", 
+        "amenity": "restaurant", 
+        "lon": "30.0795312"
+    }, 
+    "Fat Mama's Kitchen": {
+        "lat": "-1.9434745", 
+        "amenity": "restaurant", 
+        "lon": "30.0595301"
+    }, 
+    "Black & White": {
+        "lat": "-1.929367", 
+        "amenity": "bar", 
+        "lon": "30.1093305"
+    }, 
+    "Brioche": {
+        "lat": "-1.9253431", 
+        "amenity": "cafe", 
+        "lon": "30.0964279"
+    }, 
+    "Millenium Bar": {
+        "lat": "-1.9326535", 
+        "amenity": "bar", 
+        "lon": "30.0737096"
+    }, 
+    "Karibu": {
+        "lat": "-1.9520159", 
+        "amenity": "restaurant", 
+        "lon": "30.0606855"
+    }, 
+    "Habibi": {
+        "lat": "-1.9651606", 
+        "amenity": "restaurant", 
+        "lon": "30.0590678"
+    }, 
+    "Khana Khazana": {
+        "lat": "-1.9474215", 
+        "amenity": "restaurant", 
+        "lon": "30.0660823"
+    }, 
+    "Ogopogo": {
+        "lat": "-1.9480118", 
+        "amenity": "restaurant", 
+        "lon": "30.078642"
+    }, 
+    "Hotel Chez Lando VIP Restaurant": {
+        "lat": "-1.9594946", 
+        "amenity": "restaurant", 
+        "lon": "30.1086182"
+    }, 
+    "Umut": {
+        "lat": "-1.9423055", 
+        "amenity": "restaurant", 
+        "lon": "30.0582911"
+    }, 
+    "Kimironko pub": {
+        "lat": "-1.9454433", 
+        "amenity": "pub", 
+        "lon": "30.1309973"
+    }, 
+    "Gladden coffee buffet": {
+        "lat": "-1.9382271", 
+        "amenity": "restaurant", 
+        "lon": "30.0778619"
+    }, 
+    "Inyange Milk Bar": {
+        "lat": "-1.9132211", 
+        "amenity": "bar", 
+        "lon": "30.0868461"
+    }, 
+    "Regency Indian Restaurant": {
+        "lat": "-1.9302713", 
+        "amenity": "restaurant", 
+        "lon": "30.0644162"
+    }, 
+    "Shocola Mediteranian Cafe": {
+        "lat": "-1.9487309", 
+        "amenity": "cafe", 
+        "lon": "30.0786809"
+    }, 
+    "Poivre Noir": {
+        "lat": "-1.9495993", 
+        "amenity": "restaurant", 
+        "lon": "30.0811192"
+    }, 
+    "Rolex": {
+        "lat": "-1.9433952", 
+        "amenity": "restaurant", 
+        "lon": "30.0568929"
+    }, 
+    "Lebanese Resto & Bar": {
+        "lat": "-1.9656945", 
+        "amenity": "restaurant", 
+        "lon": "30.0806733"
+    }, 
+    "Dolce Pizzeria": {
+        "lat": "-1.9465596", 
+        "amenity": "restaurant", 
+        "lon": "30.0673169"
+    }, 
+    "Now Now Rolex": {
+        "lat": "-1.9511311", 
+        "amenity": "restaurant", 
+        "lon": "30.0845739"
+    }, 
+    "The Hut": {
+        "lat": "-1.9582128", 
+        "amenity": "restaurant", 
+        "lon": "30.0932183"
+    }, 
+    "4 Blooms": {
+        "lat": "-1.9586568", 
+        "amenity": "fast_food", 
+        "lon": "30.0710756"
+    }, 
+    "Pan China Restaurant and Bar": {
+        "lat": "-1.9460418", 
+        "amenity": "restaurant", 
+        "lon": "30.1061248"
+    }, 
+    "Restaurant Hellenique": {
+        "lat": "-1.9502353", 
+        "amenity": "restaurant", 
+        "lon": "30.0781417"
+    }, 
+    "J Lynn's": {
+        "lat": "-1.9862772", 
+        "amenity": "cafe", 
+        "lon": "30.101694"
+    }, 
+    "Meze Fresh": {
+        "lat": "-1.9534138", 
+        "amenity": "fast_food", 
+        "lon": "30.0951013"
+    }, 
+    "Namba's Bar": {
+        "lat": "-1.9523359", 
+        "amenity": "bar", 
+        "lon": "30.057626"
+    }, 
+    "New Panorama": {
+        "lat": "-1.9789955", 
+        "amenity": "biergarten", 
+        "lon": "30.0405933"
+    }, 
+    "Preet Fast Food ( Indian Vegetarian Restaurant)": {
+        "lat": "-1.9476841", 
+        "amenity": "restaurant", 
+        "lon": "30.0592467"
+    }, 
+    "Indian Chef": {
+        "lat": "-1.9526575", 
+        "amenity": "restaurant", 
+        "lon": "30.096755"
+    }, 
+    "Teabarra": {
+        "lat": "-1.9513401", 
+        "amenity": "restaurant", 
+        "lon": "30.0844626"
+    }, 
+    "Bamboo Rooftop Restaurant": {
+        "lat": "-1.9436787", 
+        "amenity": "restaurant", 
+        "lon": "30.0587685"
+    }, 
+    "Cocobean": {
+        "lat": "-1.9501628", 
+        "amenity": "nightclub", 
+        "lon": "30.0912668"
+    }, 
+    "FANTASTIC RESTAURANT": {
+        "lat": "-1.9432829", 
+        "amenity": "restaurant", 
+        "lon": "30.0591536"
+    }, 
+    "pili pili": {
+        "lat": "-1.9311962", 
+        "amenity": "restaurant", 
+        "lon": "30.1103374"
+    }, 
+    "Nyenyeri Bar": {
+        "lat": "-1.971235", 
+        "amenity": "bar", 
+        "lon": "30.0766177"
+    }, 
+    "Chap Chap": {
+        "lat": "-1.9654504", 
+        "amenity": "restaurant", 
+        "lon": "30.0594443"
+    }, 
+    "Pasadena Snack Bar": {
+        "lat": "-1.9724037", 
+        "amenity": "bar", 
+        "lon": "30.0782269"
+    }, 
+    "DHM": {
+        "lat": "-1.9795484", 
+        "amenity": "nightclub", 
+        "lon": "30.0402019"
+    }, 
+    "Cafe de Gikondo": {
+        "lat": "-1.9737667", 
+        "amenity": "bar", 
+        "lon": "30.0778578"
+    }, 
+    "Restaurante Epicurien": {
+        "lat": "-1.9540039", 
+        "amenity": "restaurant", 
+        "lon": "30.0809824"
+    }, 
+    "White Horse": {
+        "lat": "-1.9503348", 
+        "amenity": "restaurant", 
+        "lon": "30.0599813"
+    }, 
+    "La Fleur cuisine": {
+        "lat": "-1.9603249", 
+        "amenity": "restaurant", 
+        "lon": "30.104518"
+    }, 
+    "Stone House": {
+        "lat": "-1.96958", 
+        "amenity": "bar", 
+        "lon": "30.103453"
+    }, 
+    "Asia Kitchen": {
+        "lat": "-1.9595448", 
+        "amenity": "restaurant", 
+        "lon": "30.1066354"
+    }, 
+    "New Cactus": {
+        "lat": "-1.955897", 
+        "amenity": "restaurant", 
+        "lon": "30.0654579"
+    }, 
+    "K-Club": {
+        "lat": "-1.9253857", 
+        "amenity": "nightclub", 
+        "lon": "30.0972734"
+    }, 
+    "Sundowner": {
+        "lat": "-1.9509815", 
+        "amenity": "bar", 
+        "lon": "30.083869"
+    }, 
+    "high noon": {
+        "lat": "-1.9571198", 
+        "amenity": "restaurant", 
+        "lon": "30.1094576"
+    }, 
+    "Sol e Luna": {
+        "lat": "-1.9588177", 
+        "amenity": "restaurant", 
+        "lon": "30.105118"
+    }, 
+    "Hotel Chez Lando Restaurant": {
+        "lat": "-1.959315", 
+        "amenity": "restaurant", 
+        "lon": "30.1087845"
+    }, 
+    "Welcome": {
+        "lat": "-1.902175", 
+        "amenity": "pub", 
+        "lon": "30.0781383"
+    }, 
+    "Bar Chez Hirwa": {
+        "lat": "-1.9781503", 
+        "amenity": "bar", 
+        "lon": "30.047692"
+    }, 
+    "Republika Lounge": {
+        "lat": "-1.9522126", 
+        "amenity": "restaurant", 
+        "lon": "30.0815469"
+    }, 
+    "Acacia book cafe": {
+        "lat": "-1.9361695", 
+        "amenity": "cafe", 
+        "lon": "30.0846355"
+    }, 
+    "Inzora": {
+        "lat": "-1.9498517", 
+        "amenity": "cafe", 
+        "lon": "30.0912853"
+    }, 
+    "RTUC Restaurant": {
+        "lat": "-1.9421606", 
+        "amenity": "restaurant", 
+        "lon": "30.0562622"
+    }, 
+    "Select Restaurant": {
+        "lat": "-1.9508695", 
+        "amenity": "restaurant", 
+        "lon": "30.0982812"
+    }, 
+    "NSTC": {
+        "lat": "-1.9445164", 
+        "amenity": "restaurant", 
+        "lon": "30.1022366"
+    }, 
+    "Brachetto": {
+        "lat": "-1.9412668", 
+        "amenity": "restaurant", 
+        "lon": "30.0816693"
+    }, 
+    "Chez Robert": {
+        "lat": "-1.9469864", 
+        "amenity": "restaurant", 
+        "lon": "30.0628391"
+    }, 
+    "Beer Garden": {
+        "lat": "-1.9790662", 
+        "amenity": "biergarten", 
+        "lon": "30.0405227"
+    }, 
+    "Heaven": {
+        "lat": "-1.9470505", 
+        "amenity": "restaurant", 
+        "lon": "30.065155"
+    }, 
+    "Magda Cafe": {
+        "lat": "-1.9509365", 
+        "amenity": "cafe", 
+        "lon": "30.0931984"
+    }, 
+    "Lalibela": {
+        "lat": "-1.9495265", 
+        "amenity": "restaurant", 
+        "lon": "30.0800812"
+    }, 
+    "supermaket": {
+        "lat": "-1.9517367", 
+        "amenity": "fast_food", 
+        "lon": "30.0908723"
+    }, 
+    "No Valu Valu Pub": {
+        "lat": "-1.971397", 
+        "amenity": "pub", 
+        "lon": "30.0776969"
+    }, 
+    "Shokola Cafe": {
+        "lat": "-1.9344952", 
+        "amenity": "bar", 
+        "lon": "30.0787547"
+    }, 
+    "Spectra": {
+        "lat": "-1.9739015", 
+        "amenity": "bar", 
+        "lon": "30.0542475"
+    }, 
+    "Qiang Brother": {
+        "lat": "-1.9310358", 
+        "amenity": "restaurant", 
+        "lon": "30.0838818"
+    }, 
+    "Papyrus": {
+        "lat": "-1.9526916", 
+        "amenity": "nightclub", 
+        "lon": "30.0814505"
+    }, 
+    "Car Wash": {
+        "lat": "-1.9525447", 
+        "amenity": "bar", 
+        "lon": "30.0755208"
+    }, 
+    "Aromas Coffee": {
+        "lat": "-1.9507881", 
+        "amenity": "cafe", 
+        "lon": "30.1235299"
+    }, 
+    "Al mannu": {
+        "lat": "-1.9654739", 
+        "amenity": "fast_food", 
+        "lon": "30.0623675"
+    }, 
+    "Caiman": {
+        "lat": "-1.933393", 
+        "amenity": "restaurant", 
+        "lon": "30.1086278"
+    }, 
+    "Cosmos": {
+        "lat": "-1.9587811", 
+        "amenity": "restaurant", 
+        "lon": "30.1114922"
+    }, 
+    "Nyirangarama": {
+        "lat": "-1.9431283", 
+        "amenity": "restaurant", 
+        "lon": "30.0570123"
+    }, 
+    "Kiseki Authentic Japanese Restaurant": {
+        "lat": "-1.9542011", 
+        "amenity": "restaurant", 
+        "lon": "30.0814542"
+    }, 
+    "Cefe Restaurant Olympiade": {
+        "lat": "-1.9569632", 
+        "amenity": "restaurant", 
+        "lon": "30.1150529"
+    }, 
+    "Habesha Ethiopian Restaurant": {
+        "lat": "-1.9577671", 
+        "amenity": "restaurant", 
+        "lon": "30.0947429"
+    }, 
+    "Casa Keza": {
+        "lat": "-1.9377517", 
+        "amenity": "restaurant", 
+        "lon": "30.0885049"
+    }, 
+    "Kebab House": {
+        "lat": "-1.9515842", 
+        "amenity": "fast_food", 
+        "lon": "30.1032627"
+    }, 
+    "Shokola Lite": {
+        "lat": "-1.9508422", 
+        "amenity": "cafe", 
+        "lon": "30.0929962"
+    }, 
+    "Any Cafe": {
+        "lat": "-1.9486692", 
+        "amenity": "cafe", 
+        "lon": "30.0740941"
+    }, 
+    "African Bite": {
+        "lat": "-1.9515873", 
+        "amenity": "restaurant", 
+        "lon": "30.0823262"
+    }, 
+    "Bourbon Cafe": {
+        "lat": "-1.9438031", 
+        "amenity": "restaurant", 
+        "lon": "30.0597522"
+    }, 
+    "Question Coffee": {
+        "lat": "-1.9544946", 
+        "amenity": "cafe", 
+        "lon": "30.1046537"
+    }, 
+    "Sakae": {
+        "lat": "-1.946185", 
+        "amenity": "restaurant", 
+        "lon": "30.1061252"
+    }, 
+    "Mamba Club": {
+        "lat": "-1.954729", 
+        "amenity": "bar", 
+        "lon": "30.0817286"
+    }, 
+    "KGL": {
+        "lat": "-1.9296904", 
+        "amenity": "restaurant", 
+        "lon": "30.0657647"
+    }, 
+    "Zen Oriental Cuisine": {
+        "lat": "-1.9385624", 
+        "amenity": "restaurant", 
+        "lon": "30.1015387"
+    }
 }

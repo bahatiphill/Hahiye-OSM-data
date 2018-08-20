@@ -27,7 +27,7 @@ def to_json():
     dictionary = turn_to_dict('result_data/KigaliPubs.csv')
     json_data = json.dumps(dictionary, indent=4)
 
-    with open('result_data/resultjson.json', mode='w') as file:
+    with open('result_data/resultjson.json', mode='a') as file:
         file.write(json_data)
 
     return True

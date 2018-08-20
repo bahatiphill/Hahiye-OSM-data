@@ -15,7 +15,7 @@ class NodesHandler(osmium.SimpleHandler):
 
         if tags.get('amenity') in amenities:
             if 'name' in tags:
-                with open('result_data/KigaliPubs.csv', mode='w') as file:
+                with open('result_data/KigaliPubs.csv', mode='a') as file:
                     file_writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
                     
                     print('## Writing: ', [tags['name'], tags['amenity'], lat, lon] )
