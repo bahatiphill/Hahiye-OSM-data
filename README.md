@@ -2,7 +2,7 @@
 
 
 this take kigali OpenStreet Map (OSM) data and filter them to get public and entertaining places and return data into json format
-those places could be like _[bar, barbecue, nightclub, restaurant ]_
+those places could be like __[bar, barbecue, nightclub, restaurant ]__
 ___________________
 read about OSM here (https://wiki.openstreetmap.org/wiki/About_OpenStreetMap)
 ___________________
@@ -24,7 +24,7 @@ __This is Python2__
 3. run the "run.py" file with an OSM data file
     `python2 run.py KigaliMapdata.xml`
     
-if you have downloaded new kigali data remember to change the name "kigaliMapData.xml" to the name of the downloaded data file
+/!\ if you have downloaded new kigali data remember to change the name "kigaliMapData.xml" to the name of the downloaded data file
 
 ==> the result json file can be found in the **result_data** directory
 
