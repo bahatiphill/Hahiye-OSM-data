@@ -26,7 +26,8 @@ __This is Python2__
     
 /!\ if you have downloaded new kigali data remember to change the name "kigaliMapData.xml" to the name of the downloaded data file
 
-==> the result json file can be found in the **result_data** directory
+==> the result json file can be found in the **result_data** directory.
+
 You can even check it right here, right now, without touching anything :)  on `https://github.com/gur79/Hahiye-OSM-data/blob/master/result_data/resultjson.json`
 
 ### Cheers
